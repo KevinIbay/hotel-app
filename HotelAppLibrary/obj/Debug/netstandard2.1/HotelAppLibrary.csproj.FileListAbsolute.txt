@@ -1,0 +1,10 @@
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\bin\Debug\netstandard2.1\HotelAppLibrary.deps.json
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\bin\Debug\netstandard2.1\HotelAppLibrary.dll
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\bin\Debug\netstandard2.1\HotelAppLibrary.pdb
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.csproj.AssemblyReference.cache
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.AssemblyInfoInputs.cache
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.AssemblyInfo.cs
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.dll
+D:\Projects\_C# Masterclass\HotelApp\HotelAppLibrary\obj\Debug\netstandard2.1\HotelAppLibrary.pdb

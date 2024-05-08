@@ -33,7 +33,7 @@ namespace HotelApp.Web.Pages
 
         public void OnGet()
         {
-            if(SearchSubmitted == true)
+            if (SearchSubmitted == true)
             {
                 AvailableRoomTypes = _db.GetAvailableRoomTypes(StartDate, EndDate);
             }
@@ -41,7 +41,13 @@ namespace HotelApp.Web.Pages
 
         public IActionResult OnPost()
         {
-            return RedirectToPage(new { SearchSubmitted = true, StartDate, EndDate});
+            return RedirectToPage(
+                new
+                {
+                    SearchSubmitted = true,
+                    StartDate = StartDate.ToString("yyyy-MM-dd"),
+                    EndDate = EndDate.ToString("yyyy-MM-dd")
+                });
         }
     }
 }

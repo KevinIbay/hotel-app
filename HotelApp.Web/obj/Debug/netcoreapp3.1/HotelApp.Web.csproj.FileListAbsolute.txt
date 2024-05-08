@@ -54,3 +54,4 @@ D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelA
 D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\RoomSearch.cshtml.g.cs
 D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.Properties.Resources.resources
 D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.GenerateResource.cache
+D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\BookRoom.cshtml.g.cs

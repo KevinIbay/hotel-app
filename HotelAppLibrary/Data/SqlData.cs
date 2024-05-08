@@ -25,7 +25,7 @@ namespace HotelAppLibrary.Data
                                                  true);
         }
 
-        public void BookGuests(string firstName,
+        public void BookGuest(string firstName,
                                string lastName,
                                DateTime startDate,
                                DateTime endDate,
@@ -53,9 +53,9 @@ namespace HotelAppLibrary.Data
                 new
                 {
                     roomId = availableRooms.First().Id,
-                    guest.Id,
-                    startDate,
-                    endDate,
+                    guestId = guest.Id,
+                    startDate = startDate,
+                    endDate = endDate,
                     totalCost = timeStaying.Days * roomType.Price
                 },
                 connectionStringName,
@@ -77,6 +77,14 @@ namespace HotelAppLibrary.Data
                 connectionStringName,
                 true);
 
+        }
+
+        public RoomTypeModel GetRoomTypeById(int id)
+        {
+            return _db.LoadData<RoomTypeModel, dynamic>("dbo.spRoomTypes_GetById",
+                                                        new { id },
+                                                        connectionStringName,
+                                                        true).FirstOrDefault();
         }
     }
 }

@@ -55,3 +55,8 @@ D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\
 D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.Properties.Resources.resources
 D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\HotelApp.Web.csproj.GenerateResource.cache
 D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\obj\Debug\netcoreapp3.1\Razor\Pages\BookRoom.cshtml.g.cs
+D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Projects\_C# Masterclass\HotelApp\HotelApp.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll

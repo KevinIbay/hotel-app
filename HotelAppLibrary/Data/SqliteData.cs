@@ -84,7 +84,7 @@ namespace HotelAppLibrary.Data
 
         public void CheckInGuest(int bookingId)
         {
-            string sqlQuery = @"UPDATE dbo.Bookings
+            string sqlQuery = @"UPDATE Bookings
 	                            SET CheckedIn = 1
 	                            WHERE Id = @Id;";
 
